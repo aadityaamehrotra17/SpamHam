@@ -13,6 +13,3 @@ Run the [SpamHam.ipynb](https://github.com/aadityaamehrotra17/SpamHam/blob/main/
 
 If you have any questions, feel free to open an issue or reach out to me at aadityaa.mehrotra@student.manchester.ac.uk.
 
-**License**
-
-This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/aadityaamehrotra17/SpamHam/blob/main/LICENSE) file.
